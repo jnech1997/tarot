@@ -1,5 +1,7 @@
 # Arcana — Svelte tarot reader
 
+Live at **https://jnech1997.github.io/tarot/**
+
 ```bash
 npm install
 npm run dev      # local
